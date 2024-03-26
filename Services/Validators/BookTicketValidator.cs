@@ -23,7 +23,7 @@ namespace Services.Validators
                         .MustAsync(TicketHasQuota).WithMessage("Ticket quota is exhausted")
                         .MustAsync((request, ticketCode, cancellationToken) => QuantityIsValid(ticketCode, request.BuyQuantity, cancellationToken)).WithMessage("Quantity exceeds available quota.");
                 });
-            //test pull request
+            //test pull request kedua
 
         }
 
