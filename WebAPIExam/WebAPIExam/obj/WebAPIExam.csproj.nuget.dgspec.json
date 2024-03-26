@@ -1,0 +1,287 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/WebAPIExam/WebAPIExam.csproj": {}
+  },
+  "projects": {
+    "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Contracts/Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Contracts/Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Contracts/Contracts.csproj",
+        "packagesPath": "/Users/ruben/.nuget/packages/",
+        "outputPath": "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ruben/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Entity/Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Entity/Entity.csproj",
+        "projectName": "Entity",
+        "projectPath": "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Entity/Entity.csproj",
+        "packagesPath": "/Users/ruben/.nuget/packages/",
+        "outputPath": "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Entity/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ruben/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/Services.csproj",
+        "projectName": "Services",
+        "projectPath": "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/Services.csproj",
+        "packagesPath": "/Users/ruben/.nuget/packages/",
+        "outputPath": "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ruben/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Contracts/Contracts.csproj": {
+                "projectPath": "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Contracts/Contracts.csproj"
+              },
+              "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Entity/Entity.csproj": {
+                "projectPath": "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Entity/Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/WebAPIExam/WebAPIExam.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/WebAPIExam/WebAPIExam.csproj",
+        "projectName": "WebAPIExam",
+        "projectPath": "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/WebAPIExam/WebAPIExam.csproj",
+        "packagesPath": "/Users/ruben/.nuget/packages/",
+        "outputPath": "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/WebAPIExam/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ruben/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.314/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/Services.csproj": {
+                "projectPath": "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.17, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

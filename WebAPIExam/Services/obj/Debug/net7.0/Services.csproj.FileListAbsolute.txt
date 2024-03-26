@@ -1,0 +1,17 @@
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/bin/Debug/net7.0/Services.deps.json
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/bin/Debug/net7.0/Services.dll
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/bin/Debug/net7.0/Services.pdb
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/bin/Debug/net7.0/Contracts.dll
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/bin/Debug/net7.0/Entity.dll
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/bin/Debug/net7.0/Entity.pdb
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/bin/Debug/net7.0/Contracts.pdb
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/obj/Debug/net7.0/Services.csproj.AssemblyReference.cache
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/obj/Debug/net7.0/Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/obj/Debug/net7.0/Services.AssemblyInfoInputs.cache
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/obj/Debug/net7.0/Services.AssemblyInfo.cs
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/obj/Debug/net7.0/Services.csproj.CoreCompileInputs.cache
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/obj/Debug/net7.0/Services.csproj.CopyComplete
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/obj/Debug/net7.0/Services.dll
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/obj/Debug/net7.0/refint/Services.dll
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/obj/Debug/net7.0/Services.pdb
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Services/obj/Debug/net7.0/ref/Services.dll

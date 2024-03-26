@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR.Contracts" Version="1.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="RequestModels\" />
+    <None Remove="ResponseModels\" />
+    <None Remove="RequestModels\Category\" />
+    <None Remove="ResponseModels\Category\" />
+    <None Remove="RequestModels\BookedTicket\" />
+    <None Remove="ResponseModels\BookedTicket\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="RequestModels\" />
+    <Folder Include="ResponseModels\" />
+    <Folder Include="RequestModels\Category\" />
+    <Folder Include="ResponseModels\Category\" />
+    <Folder Include="RequestModels\BookedTicket\" />
+    <Folder Include="ResponseModels\BookedTicket\" />
+  </ItemGroup>
+</Project>

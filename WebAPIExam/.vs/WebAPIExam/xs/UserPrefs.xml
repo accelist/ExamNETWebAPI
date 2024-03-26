@@ -1,0 +1,75 @@
+﻿<Properties StartupConfiguration="{2D91B591-CA09-4556-9C2F-7FB8F0BEE605}|http">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ExamTesting FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExamTesting/ExamUnitTest.cs">
+    <Files>
+      <File FileName="WebAPIExam/Program.cs" Line="8" Column="41" />
+      <File FileName="WebAPIExam/appsettings.json" />
+      <File FileName="Contracts/ResponseModels/TicketDataListResponse.cs" Line="24" Column="2" />
+      <File FileName="Entity/Entity/Ticket.cs" Line="14" Column="33" />
+      <File FileName="WebAPIExam/Controllers/TicketController.cs" Line="17" Column="13" />
+      <File FileName="Entity/Entity/Category.cs" Line="1" Column="1" />
+      <File FileName="Contracts/RequestModels/TicketDataListRequest.cs" Line="1" Column="1" />
+      <File FileName="Entity/Entity/DBContext.cs" Line="1" Column="1" />
+      <File FileName="WebAPIExam/Controllers/WeatherForecastController.cs" />
+      <File FileName="Services/RequestHandlers/GetTicketDataListHandler.cs" Line="29" Column="1" />
+      <File FileName="Entity/Entity/BookedTicket.cs" Line="10" Column="49" />
+      <File FileName="Contracts/RequestModels/CreateBookedTicketRequest.cs" Line="9" Column="23" />
+      <File FileName="Contracts/ResponseModels/CreateBookedTicketResponse.cs" Line="7" Column="6" />
+      <File FileName="Services/RequestHandlers/CreateBookedTicketHandler.cs" Line="33" Column="49" />
+      <File FileName="Contracts/RequestModels/Category/CategoryDataListRequest.cs" Line="9" Column="45" />
+      <File FileName="Contracts/ResponseModels/Category/CategoryDataListResponse.cs" Line="18" Column="6" />
+      <File FileName="WebAPIExam/Controllers/CategoryController.cs" Line="48" Column="10" />
+      <File FileName="Services/RequestHandlers/Category/GetCategoryDataListHandler.cs" Line="1" Column="1" />
+      <File FileName="Contracts/RequestModels/Category/CreateCategoryDataRequest.cs" Line="1" Column="1" />
+      <File FileName="Contracts/ResponseModels/Category/CreateCategoryDataResponse.cs" Line="6" Column="45" />
+      <File FileName="Services/RequestHandlers/Category/CreateCategoryDataHandler.cs" Line="22" Column="14" />
+      <File FileName="WebAPIExam/Controllers/BookedTicketController.cs" Line="16" Column="31" />
+      <File FileName="Contracts/RequestModels/BookedTicket/GetBookedTicketRequest.cs" Line="8" Column="2" />
+      <File FileName="Contracts/ResponseModels/GetBookedTicketResponse.cs" Line="23" Column="1" />
+      <File FileName="Services/Validators/GetTicketValidator.cs" Line="34" Column="1" />
+      <File FileName="WebAPIExam/Logs/WebApiTraining20240326.Log" Line="1" Column="1" />
+      <File FileName="WebAPIExam/Logs/WebApiTraining20240326.Log" Line="1" Column="1" />
+      <File FileName="ExamTesting/UnitTest1.cs" Line="17" Column="1" />
+      <File FileName="ExamTesting/BaseTest.cs" Line="9" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebAPIExam" expanded="True">
+            <Node name="Contracts" expanded="True">
+              <Node name="RequestModels" expanded="True">
+                <Node name="BookedTicket" expanded="True" />
+              </Node>
+              <Node name="ResponseModels" expanded="True">
+                <Node name="BookedTicket" expanded="True" />
+                <Node name="Category" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Entity" expanded="True">
+              <Node name="Entity" expanded="True" />
+            </Node>
+            <Node name="ExamTesting">
+              <Node name="ExamUnitTest.cs" selected="True" />
+            </Node>
+            <Node name="Services" expanded="True">
+              <Node name="RequestHandlers" expanded="True">
+                <Node name="BookedTicket" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="WebAPIExam" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Logs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WebAPIExam PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>

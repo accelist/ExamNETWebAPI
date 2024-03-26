@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Contracts\Contracts.csproj" />
+    <ProjectReference Include="..\Entity\Entity.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.9.0" />
+    <PackageReference Include="MediatR" Version="11.1.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="RequestHandlers\" />
+    <None Remove="RequestHandlers\Category\" />
+    <None Remove="Validators\" />
+    <None Remove="RequestHandlers\BookedTicket\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="RequestHandlers\" />
+    <Folder Include="RequestHandlers\Category\" />
+    <Folder Include="Validators\" />
+    <Folder Include="RequestHandlers\BookedTicket\" />
+    <Folder Include="Validators\" />
+  </ItemGroup>
+</Project>

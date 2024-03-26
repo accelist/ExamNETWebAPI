@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zXKq94AxjLANMZF7JOyNDv8iAS1BEVkBNeCsCqOQ3soDOOWjyEWFFsKoGeyEfsyTDCdPlMDNy/TvjV9Ww9+sTg==",
+  "success": true,
+  "projectFilePath": "/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Contracts/Contracts.csproj",
+  "expectedPackageFiles": [
+    "/Users/ruben/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
