@@ -13,6 +13,8 @@ namespace Services.Validators
             _db = db;
 
             RuleFor(Q => Q.BuyQuantity).NotEmpty().WithMessage("Quantity can't be empty!").GreaterThan(1).WithMessage("Has to be at least 1qty");
+
+            //Test
         }
     }
 }
