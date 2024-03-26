@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yWEVZY4xJeKHzFj2AWh/oLmvyfDnXKTD6dA2/58NC6GiMH4uf5nxHlkyjmiiNBfDxAGFCaeiYFHTtz2F+A9HkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\backupExam\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
