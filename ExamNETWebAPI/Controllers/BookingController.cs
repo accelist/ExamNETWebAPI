@@ -26,7 +26,7 @@ namespace ExamNETWebAPI.Controllers
             return Ok(response);
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("get-booked-ticket/{id}")]
         public async Task<ActionResult<GetBookingDetailResponse>> Get(Guid id, CancellationToken cancellationToken)
         {
             var request = new GetBookingDetailRequest
@@ -39,7 +39,7 @@ namespace ExamNETWebAPI.Controllers
             return Ok(response);
         }
 
-        [HttpPost]
+        [HttpPost("book-ticket")]
         public async Task<ActionResult<BookTicketsResponse>> Post([FromBody] BookTicketsRequest request, CancellationToken cancellationToken)
         {
             var response = await _mediator.Send(request, cancellationToken);
@@ -47,7 +47,7 @@ namespace ExamNETWebAPI.Controllers
             return Ok(response);
         }
 
-        [HttpPut("{id}")] //TODO issue di swagger masih {id}/{ticketCode}/{qty}
+        [HttpPut("edit-booked-ticket/{id}")]
         public async Task<ActionResult<UpdateBookingResponse>> Put(Guid id, [FromBody] UpdateBookingRequestDataListModel model, CancellationToken cancellationToken)
         {
             var request = new UpdateBookingRequest
@@ -61,7 +61,7 @@ namespace ExamNETWebAPI.Controllers
             return Ok(response);
         }
 
-        [HttpDelete("{id}/{ticketCode}/{qty}")]
+        [HttpDelete("revoke-ticket/{id}/{ticketCode}/{qty}")]
         public async Task<ActionResult<DeleteTicketsResponse>> Delete(Guid id, string ticketCode, int qty, CancellationToken cancellationToken)
         {
             var request = new DeleteTicketsRequest
