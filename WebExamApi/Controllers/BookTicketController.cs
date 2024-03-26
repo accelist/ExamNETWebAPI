@@ -27,10 +27,19 @@ namespace WebExamApi.Controllers
 
         // GET api/<BookTicketController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public async Task <ActionResult<GetBookedDetailDataResponse>> Get(Guid id, [FromBody] TicketModels model, [FromServices]IValidator<GetBookedDetailDataRequest> validator, CancellationToken ct)
         {
-            return "value";
+            var request = new GetBookedDetailDataRequest { BookId = id };
+            var validate = await validator.ValidateAsync(request);
+            if(!validate.IsValid)
+            {
+                validate.AddToModelState(ModelState);
+                return ValidationProblem();
+            }
+            var response = await _mediator.Send(model, ct);
+            return Ok(response);
         }
+       
 
         // POST api/<BookTicketController>
         [HttpPost]

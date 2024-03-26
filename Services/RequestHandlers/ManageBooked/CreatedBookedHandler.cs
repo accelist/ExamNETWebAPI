@@ -65,7 +65,8 @@ namespace Services.RequestHandlers.ManageBooked
             await _db.SaveChangesAsync(ct);
             return new CreateBookedTicketResponse
             {
-                Message = "Successfully Created!"
+                Message = "Successfully Created!",
+                BookId = bookedTicketDat.BookId
             };
         }
     }
