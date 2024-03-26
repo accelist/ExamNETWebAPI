@@ -1,0 +1,12 @@
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Entity/obj/Debug/net7.0/Entity.csproj.AssemblyReference.cache
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Entity/obj/Debug/net7.0/Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Entity/obj/Debug/net7.0/Entity.AssemblyInfoInputs.cache
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Entity/obj/Debug/net7.0/Entity.AssemblyInfo.cs
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Entity/obj/Debug/net7.0/Entity.csproj.CoreCompileInputs.cache
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Entity/bin/Debug/net7.0/Entity.deps.json
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Entity/bin/Debug/net7.0/Entity.dll
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Entity/bin/Debug/net7.0/Entity.pdb
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Entity/obj/Debug/net7.0/Entity.dll
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Entity/obj/Debug/net7.0/refint/Entity.dll
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Entity/obj/Debug/net7.0/Entity.pdb
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Entity/obj/Debug/net7.0/ref/Entity.dll

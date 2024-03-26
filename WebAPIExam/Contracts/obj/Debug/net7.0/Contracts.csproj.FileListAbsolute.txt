@@ -1,0 +1,12 @@
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Contracts/bin/Debug/net7.0/Contracts.deps.json
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Contracts/bin/Debug/net7.0/Contracts.dll
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Contracts/bin/Debug/net7.0/Contracts.pdb
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Contracts/obj/Debug/net7.0/Contracts.csproj.AssemblyReference.cache
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Contracts/obj/Debug/net7.0/Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Contracts/obj/Debug/net7.0/Contracts.AssemblyInfoInputs.cache
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Contracts/obj/Debug/net7.0/Contracts.AssemblyInfo.cs
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Contracts/obj/Debug/net7.0/Contracts.csproj.CoreCompileInputs.cache
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Contracts/obj/Debug/net7.0/Contracts.dll
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Contracts/obj/Debug/net7.0/refint/Contracts.dll
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Contracts/obj/Debug/net7.0/Contracts.pdb
+/Users/ruben/Projects/WebAPIExam/ExamNETWebAPI/WebAPIExam/Contracts/obj/Debug/net7.0/ref/Contracts.dll
