@@ -1,0 +1,13 @@
+C:\Users\Benjamin\Desktop\ben\accelist\training\ExamWebAPI\ExamNETWebAPI\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\Benjamin\Desktop\ben\accelist\training\ExamWebAPI\ExamNETWebAPI\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\Benjamin\Desktop\ben\accelist\training\ExamWebAPI\ExamNETWebAPI\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\Benjamin\Desktop\ben\accelist\training\ExamWebAPI\ExamNETWebAPI\Entity\obj\Debug\net8.0\Entity.csproj.AssemblyReference.cache
+C:\Users\Benjamin\Desktop\ben\accelist\training\ExamWebAPI\ExamNETWebAPI\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\Desktop\ben\accelist\training\ExamWebAPI\ExamNETWebAPI\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\ben\accelist\training\ExamWebAPI\ExamNETWebAPI\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\ben\accelist\training\ExamWebAPI\ExamNETWebAPI\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\ben\accelist\training\ExamWebAPI\ExamNETWebAPI\Entity\obj\Debug\net8.0\Entity.sourcelink.json
+C:\Users\Benjamin\Desktop\ben\accelist\training\ExamWebAPI\ExamNETWebAPI\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\Benjamin\Desktop\ben\accelist\training\ExamWebAPI\ExamNETWebAPI\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\Benjamin\Desktop\ben\accelist\training\ExamWebAPI\ExamNETWebAPI\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\Benjamin\Desktop\ben\accelist\training\ExamWebAPI\ExamNETWebAPI\Entity\obj\Debug\net8.0\ref\Entity.dll

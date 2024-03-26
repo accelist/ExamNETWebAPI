@@ -1,0 +1,654 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\ExamNETWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFD7E4E-FF9D-4F19-B233-5CDE289EDBF9}|..\\Contracts\\Contracts.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\contracts\\requestmodels\\booking\\createbookingdatarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFD7E4E-FF9D-4F19-B233-5CDE289EDBF9}|..\\Contracts\\Contracts.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\contracts\\responsemodels\\booking\\createbookingdataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB7EF61-5D0E-4E14-953C-89EC4D1FAA21}|..\\ProjectTesting\\ProjectTesting.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\projecttesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E2E2D3-DED9-4527-A2C7-948AF6594260}|..\\Services\\Services.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\services\\requesthandlers\\managebooking\\deletebookingdatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFD7E4E-FF9D-4F19-B233-5CDE289EDBF9}|..\\Contracts\\Contracts.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\contracts\\requestmodels\\booking\\deletebookingdatarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E2E2D3-DED9-4527-A2C7-948AF6594260}|..\\Services\\Services.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\services\\requesthandlers\\manageticket\\deleteticketdatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFD7E4E-FF9D-4F19-B233-5CDE289EDBF9}|..\\Contracts\\Contracts.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\contracts\\responsemodels\\booking\\deletebookingdataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFD7E4E-FF9D-4F19-B233-5CDE289EDBF9}|..\\Contracts\\Contracts.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\contracts\\requestmodels\\ticket\\deleteticketdatarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E2E2D3-DED9-4527-A2C7-948AF6594260}|..\\Services\\Services.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\services\\requesthandlers\\managebooking\\createbookingdatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11181115-7561-4B1D-8C24-C8B601575C83}|ExamNETWebAPI.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\examnetwebapi\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11181115-7561-4B1D-8C24-C8B601575C83}|ExamNETWebAPI.csproj|solutionrelative:controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11181115-7561-4B1D-8C24-C8B601575C83}|ExamNETWebAPI.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\examnetwebapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11181115-7561-4B1D-8C24-C8B601575C83}|ExamNETWebAPI.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11181115-7561-4B1D-8C24-C8B601575C83}|ExamNETWebAPI.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\examnetwebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11181115-7561-4B1D-8C24-C8B601575C83}|ExamNETWebAPI.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFD7E4E-FF9D-4F19-B233-5CDE289EDBF9}|..\\Contracts\\Contracts.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\contracts\\requestmodels\\ticket\\createticketdatarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFD7E4E-FF9D-4F19-B233-5CDE289EDBF9}|..\\Contracts\\Contracts.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\contracts\\requestmodels\\ticket\\getticketdatalistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E2E2D3-DED9-4527-A2C7-948AF6594260}|..\\Services\\Services.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\services\\requesthandlers\\managebooking\\getbookingdatalisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E2E2D3-DED9-4527-A2C7-948AF6594260}|..\\Services\\Services.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\services\\requesthandlers\\managecategory\\getcategorydatalisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E2E2D3-DED9-4527-A2C7-948AF6594260}|..\\Services\\Services.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\services\\requesthandlers\\managecategory\\createcategorydatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFD7E4E-FF9D-4F19-B233-5CDE289EDBF9}|..\\Contracts\\Contracts.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\contracts\\responsemodels\\ticket\\createticketdataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFD7E4E-FF9D-4F19-B233-5CDE289EDBF9}|..\\Contracts\\Contracts.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\contracts\\responsemodels\\booking\\getbookingdatalistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFD7E4E-FF9D-4F19-B233-5CDE289EDBF9}|..\\Contracts\\Contracts.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\contracts\\responsemodels\\ticket\\getticketdatalistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5E1BFA-9423-4C23-BD44-4DA54E19531F}|..\\Entity\\Entity.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\entity\\entity\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E2E2D3-DED9-4527-A2C7-948AF6594260}|..\\Services\\Services.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\services\\validators\\booking\\createbookingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFD7E4E-FF9D-4F19-B233-5CDE289EDBF9}|..\\Contracts\\Contracts.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\contracts\\requestmodels\\booking\\getbookingdatalistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFD7E4E-FF9D-4F19-B233-5CDE289EDBF9}|..\\Contracts\\Contracts.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\contracts\\requestmodels\\category\\createcategorydatarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB7EF61-5D0E-4E14-953C-89EC4D1FAA21}|..\\ProjectTesting\\ProjectTesting.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\projecttesting\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11181115-7561-4B1D-8C24-C8B601575C83}|ExamNETWebAPI.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\examnetwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11181115-7561-4B1D-8C24-C8B601575C83}|ExamNETWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFD7E4E-FF9D-4F19-B233-5CDE289EDBF9}|..\\Contracts\\Contracts.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\contracts\\responsemodels\\category\\createcategorydataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E2E2D3-DED9-4527-A2C7-948AF6594260}|..\\Services\\Services.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\services\\requesthandlers\\manageticket\\createticketdatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E2E2D3-DED9-4527-A2C7-948AF6594260}|..\\Services\\Services.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\services\\requesthandlers\\manageticket\\getticketdatalisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5E1BFA-9423-4C23-BD44-4DA54E19531F}|..\\Entity\\Entity.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\entity\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5E1BFA-9423-4C23-BD44-4DA54E19531F}|..\\Entity\\Entity.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\entity\\entity\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5E1BFA-9423-4C23-BD44-4DA54E19531F}|..\\Entity\\Entity.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\entity\\entity\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFD7E4E-FF9D-4F19-B233-5CDE289EDBF9}|..\\Contracts\\Contracts.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\contracts\\responsemodels\\category\\getcategorydatalistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFD7E4E-FF9D-4F19-B233-5CDE289EDBF9}|..\\Contracts\\Contracts.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\contracts\\requestmodels\\category\\getcategorydatalistrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11181115-7561-4B1D-8C24-C8B601575C83}|ExamNETWebAPI.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\examnetwebapi\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11181115-7561-4B1D-8C24-C8B601575C83}|ExamNETWebAPI.csproj|solutionrelative:controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFD7E4E-FF9D-4F19-B233-5CDE289EDBF9}|..\\Contracts\\Contracts.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\contracts\\responsemodels\\ticket\\deleteticketdataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Benjamin\\AppData\\Roaming\\Microsoft\\UserSecrets\\ef85d615-14c3-4bbc-bce6-4c8080a07404\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11181115-7561-4B1D-8C24-C8B601575C83}|ExamNETWebAPI.csproj|c:\\users\\benjamin\\desktop\\ben\\accelist\\training\\examwebapi\\examnetwebapi\\examnetwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11181115-7561-4B1D-8C24-C8B601575C83}|ExamNETWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteBookingDataHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Services\\RequestHandlers\\ManageBooking\\DeleteBookingDataHandler.cs",
+              "RelativeDocumentMoniker": "..\\Services\\RequestHandlers\\ManageBooking\\DeleteBookingDataHandler.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Services\\RequestHandlers\\ManageBooking\\DeleteBookingDataHandler.cs",
+              "RelativeToolTip": "..\\Services\\RequestHandlers\\ManageBooking\\DeleteBookingDataHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:37:59.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteBookingDataRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\RequestModels\\Booking\\DeleteBookingDataRequest.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\RequestModels\\Booking\\DeleteBookingDataRequest.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\RequestModels\\Booking\\DeleteBookingDataRequest.cs",
+              "RelativeToolTip": "..\\Contracts\\RequestModels\\Booking\\DeleteBookingDataRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:22:39.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\ProjectTesting\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\ProjectTesting\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\ProjectTesting\\UnitTest1.cs",
+              "RelativeToolTip": "..\\ProjectTesting\\UnitTest1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:43:57.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateBookingDataResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\ResponseModels\\Booking\\CreateBookingDataResponse.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\ResponseModels\\Booking\\CreateBookingDataResponse.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\ResponseModels\\Booking\\CreateBookingDataResponse.cs",
+              "RelativeToolTip": "..\\Contracts\\ResponseModels\\Booking\\CreateBookingDataResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:18:11.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateBookingDataRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\RequestModels\\Booking\\CreateBookingDataRequest.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\RequestModels\\Booking\\CreateBookingDataRequest.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\RequestModels\\Booking\\CreateBookingDataRequest.cs",
+              "RelativeToolTip": "..\\Contracts\\RequestModels\\Booking\\CreateBookingDataRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:18:01.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteTicketDataHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Services\\RequestHandlers\\ManageTicket\\DeleteTicketDataHandler.cs",
+              "RelativeDocumentMoniker": "..\\Services\\RequestHandlers\\ManageTicket\\DeleteTicketDataHandler.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Services\\RequestHandlers\\ManageTicket\\DeleteTicketDataHandler.cs",
+              "RelativeToolTip": "..\\Services\\RequestHandlers\\ManageTicket\\DeleteTicketDataHandler.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T05:34:26.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteBookingDataResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\ResponseModels\\Booking\\DeleteBookingDataResponse.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\ResponseModels\\Booking\\DeleteBookingDataResponse.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\ResponseModels\\Booking\\DeleteBookingDataResponse.cs",
+              "RelativeToolTip": "..\\Contracts\\ResponseModels\\Booking\\DeleteBookingDataResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:24:52.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteTicketDataRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\RequestModels\\Ticket\\DeleteTicketDataRequest.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\RequestModels\\Ticket\\DeleteTicketDataRequest.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\RequestModels\\Ticket\\DeleteTicketDataRequest.cs",
+              "RelativeToolTip": "..\\Contracts\\RequestModels\\Ticket\\DeleteTicketDataRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T05:32:53.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateBookingDataHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Services\\RequestHandlers\\ManageBooking\\CreateBookingDataHandler.cs",
+              "RelativeDocumentMoniker": "..\\Services\\RequestHandlers\\ManageBooking\\CreateBookingDataHandler.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Services\\RequestHandlers\\ManageBooking\\CreateBookingDataHandler.cs",
+              "RelativeToolTip": "..\\Services\\RequestHandlers\\ManageBooking\\CreateBookingDataHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:49:20.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\ExamNETWebAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\ExamNETWebAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwBoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T06:17:18.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateTicketDataRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\RequestModels\\Ticket\\CreateTicketDataRequest.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\RequestModels\\Ticket\\CreateTicketDataRequest.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\RequestModels\\Ticket\\CreateTicketDataRequest.cs",
+              "RelativeToolTip": "..\\Contracts\\RequestModels\\Ticket\\CreateTicketDataRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:09:55.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\ExamNETWebAPI\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\ExamNETWebAPI\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:13:00.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\ExamNETWebAPI\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\ExamNETWebAPI\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "Controllers\\TicketController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwBgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:06:05.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetTicketDataListRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\RequestModels\\Ticket\\GetTicketDataListRequest.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\RequestModels\\Ticket\\GetTicketDataListRequest.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\RequestModels\\Ticket\\GetTicketDataListRequest.cs",
+              "RelativeToolTip": "..\\Contracts\\RequestModels\\Ticket\\GetTicketDataListRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:13:25.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetBookingDataListHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Services\\RequestHandlers\\ManageBooking\\GetBookingDataListHandler.cs",
+              "RelativeDocumentMoniker": "..\\Services\\RequestHandlers\\ManageBooking\\GetBookingDataListHandler.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Services\\RequestHandlers\\ManageBooking\\GetBookingDataListHandler.cs",
+              "RelativeToolTip": "..\\Services\\RequestHandlers\\ManageBooking\\GetBookingDataListHandler.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswDkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:49:48.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetCategoryDataListHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Services\\RequestHandlers\\ManageCategory\\GetCategoryDataListHandler.cs",
+              "RelativeDocumentMoniker": "..\\Services\\RequestHandlers\\ManageCategory\\GetCategoryDataListHandler.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Services\\RequestHandlers\\ManageCategory\\GetCategoryDataListHandler.cs",
+              "RelativeToolTip": "..\\Services\\RequestHandlers\\ManageCategory\\GetCategoryDataListHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T06:22:19.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateCategoryDataHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Services\\RequestHandlers\\ManageCategory\\CreateCategoryDataHandler.cs",
+              "RelativeDocumentMoniker": "..\\Services\\RequestHandlers\\ManageCategory\\CreateCategoryDataHandler.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Services\\RequestHandlers\\ManageCategory\\CreateCategoryDataHandler.cs",
+              "RelativeToolTip": "..\\Services\\RequestHandlers\\ManageCategory\\CreateCategoryDataHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowBQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T06:14:30.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateTicketDataResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\ResponseModels\\Ticket\\CreateTicketDataResponse.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\ResponseModels\\Ticket\\CreateTicketDataResponse.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\ResponseModels\\Ticket\\CreateTicketDataResponse.cs",
+              "RelativeToolTip": "..\\Contracts\\ResponseModels\\Ticket\\CreateTicketDataResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:10:03.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetBookingDataListResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\ResponseModels\\Booking\\GetBookingDataListResponse.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\ResponseModels\\Booking\\GetBookingDataListResponse.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\ResponseModels\\Booking\\GetBookingDataListResponse.cs",
+              "RelativeToolTip": "..\\Contracts\\ResponseModels\\Booking\\GetBookingDataListResponse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:28:35.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetTicketDataListResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\ResponseModels\\Ticket\\GetTicketDataListResponse.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\ResponseModels\\Ticket\\GetTicketDataListResponse.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\ResponseModels\\Ticket\\GetTicketDataListResponse.cs",
+              "RelativeToolTip": "..\\Contracts\\ResponseModels\\Ticket\\GetTicketDataListResponse.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:13:35.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Entity\\Entity\\Booking.cs",
+              "RelativeDocumentMoniker": "..\\Entity\\Entity\\Booking.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Entity\\Entity\\Booking.cs",
+              "RelativeToolTip": "..\\Entity\\Entity\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T05:45:12.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateBookingValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Services\\Validators\\Booking\\CreateBookingValidator.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Validators\\Booking\\CreateBookingValidator.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Services\\Validators\\Booking\\CreateBookingValidator.cs",
+              "RelativeToolTip": "..\\Services\\Validators\\Booking\\CreateBookingValidator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:04:57.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetBookingDataListRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\RequestModels\\Booking\\GetBookingDataListRequest.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\RequestModels\\Booking\\GetBookingDataListRequest.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\RequestModels\\Booking\\GetBookingDataListRequest.cs",
+              "RelativeToolTip": "..\\Contracts\\RequestModels\\Booking\\GetBookingDataListRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:28:19.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\ProjectTesting\\BaseTest.cs",
+              "RelativeDocumentMoniker": "..\\ProjectTesting\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\ProjectTesting\\BaseTest.cs",
+              "RelativeToolTip": "..\\ProjectTesting\\BaseTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:25:16.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateCategoryDataRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\RequestModels\\Category\\CreateCategoryDataRequest.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\RequestModels\\Category\\CreateCategoryDataRequest.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\RequestModels\\Category\\CreateCategoryDataRequest.cs",
+              "RelativeToolTip": "..\\Contracts\\RequestModels\\Category\\CreateCategoryDataRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T06:12:19.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\ExamNETWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\ExamNETWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:41:59.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateTicketDataHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Services\\RequestHandlers\\ManageTicket\\CreateTicketDataHandler.cs",
+              "RelativeDocumentMoniker": "..\\Services\\RequestHandlers\\ManageTicket\\CreateTicketDataHandler.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Services\\RequestHandlers\\ManageTicket\\CreateTicketDataHandler.cs",
+              "RelativeToolTip": "..\\Services\\RequestHandlers\\ManageTicket\\CreateTicketDataHandler.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowBgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:32:58.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateCategoryDataResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\ResponseModels\\Category\\CreateCategoryDataResponse.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\ResponseModels\\Category\\CreateCategoryDataResponse.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\ResponseModels\\Category\\CreateCategoryDataResponse.cs",
+              "RelativeToolTip": "..\\Contracts\\ResponseModels\\Category\\CreateCategoryDataResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T06:12:49.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetTicketDataListHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Services\\RequestHandlers\\ManageTicket\\GetTicketDataListHandler.cs",
+              "RelativeDocumentMoniker": "..\\Services\\RequestHandlers\\ManageTicket\\GetTicketDataListHandler.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Services\\RequestHandlers\\ManageTicket\\GetTicketDataListHandler.cs",
+              "RelativeToolTip": "..\\Services\\RequestHandlers\\ManageTicket\\GetTicketDataListHandler.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIA8wBkAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:56:39.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Entity\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "..\\Entity\\Entity\\Category.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Entity\\Entity\\Category.cs",
+              "RelativeToolTip": "..\\Entity\\Entity\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T06:10:06.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Entity\\Entity\\Ticket.cs",
+              "RelativeDocumentMoniker": "..\\Entity\\Entity\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Entity\\Entity\\Ticket.cs",
+              "RelativeToolTip": "..\\Entity\\Entity\\Ticket.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:54:49.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Entity\\Entity\\DBContext.cs",
+              "RelativeDocumentMoniker": "..\\Entity\\Entity\\DBContext.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Entity\\Entity\\DBContext.cs",
+              "RelativeToolTip": "..\\Entity\\Entity\\DBContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAewBEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:00:49.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetCategoryDataListResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\ResponseModels\\Category\\GetCategoryDataListResponse.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\ResponseModels\\Category\\GetCategoryDataListResponse.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\ResponseModels\\Category\\GetCategoryDataListResponse.cs",
+              "RelativeToolTip": "..\\Contracts\\ResponseModels\\Category\\GetCategoryDataListResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T06:19:41.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f37f5141-198e-4181-9582-7b026ee8f915}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetCategoryDataListRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\RequestModels\\Category\\GetCategoryDataListRequest.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\RequestModels\\Category\\GetCategoryDataListRequest.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\RequestModels\\Category\\GetCategoryDataListRequest.cs",
+              "RelativeToolTip": "..\\Contracts\\RequestModels\\Category\\GetCategoryDataListRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T06:19:26.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\ExamNETWebAPI\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\ExamNETWebAPI\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "Controllers\\ErrorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:06:20.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DeleteTicketDataResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\ResponseModels\\Ticket\\DeleteTicketDataResponse.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\ResponseModels\\Ticket\\DeleteTicketDataResponse.cs",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\Contracts\\ResponseModels\\Ticket\\DeleteTicketDataResponse.cs",
+              "RelativeToolTip": "..\\Contracts\\ResponseModels\\Ticket\\DeleteTicketDataResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T05:33:04.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\AppData\\Roaming\\Microsoft\\UserSecrets\\ef85d615-14c3-4bbc-bce6-4c8080a07404\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\ef85d615-14c3-4bbc-bce6-4c8080a07404\\secrets.json",
+              "ToolTip": "C:\\Users\\Benjamin\\AppData\\Roaming\\Microsoft\\UserSecrets\\ef85d615-14c3-4bbc-bce6-4c8080a07404\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\ef85d615-14c3-4bbc-bce6-4c8080a07404\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T03:03:49.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\ExamNETWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Benjamin\\Desktop\\ben\\accelist\\training\\ExamWebAPI\\ExamNETWebAPI\\ExamNETWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T03:03:19.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
