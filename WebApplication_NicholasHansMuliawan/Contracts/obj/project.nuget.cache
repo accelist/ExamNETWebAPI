@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VY5FYdxTP8/UFFBs8NpCJ41TUE8Qk6ZReRk6BC+EE8nu7i9RKkWAw2AxNxl8NU+aBYEZZ5sarSmcTKY965HS9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicho\\source\\repos\\ExamNETWebAPI\\WebApplication_NicholasHansMuliawan\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicho\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\nicho\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

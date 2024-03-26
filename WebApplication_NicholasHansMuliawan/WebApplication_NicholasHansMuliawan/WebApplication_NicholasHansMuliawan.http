@@ -1,0 +1,6 @@
+@WebApplication_NicholasHansMuliawan_HostAddress = http://localhost:5019
+
+GET {{WebApplication_NicholasHansMuliawan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
