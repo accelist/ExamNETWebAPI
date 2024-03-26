@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o3qhP1wW84bDEDB7K5rf4QWj7spLYMGIeedLfKMx53hyKxn5lPZ1Mu3C9jcAB6HZ8C8r1S1UtzbcHjpsU7eg8A==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\mine\\accelist\\ExamNETWebAPI\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\axela\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
