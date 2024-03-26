@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mudz17/CmN9ooFuCHoxq9um9yCyKiG45OR1hjMLswCj7TSdAv4DiooZ2IgbZnKlUV/t1PTYlTPS/aYgNBcGkWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hisya\\OneDrive\\Documents\\Learn\\ExamAccelTick\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hisya\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
