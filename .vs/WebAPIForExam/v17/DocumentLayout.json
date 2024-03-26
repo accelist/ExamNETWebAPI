@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\WebAPIForExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCCE484-C7B6-4853-8A4B-587EFFDFE26E}|..\\Services\\Services.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\services\\validators\\getticketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCCE484-C7B6-4853-8A4B-587EFFDFE26E}|..\\Services\\Services.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\services\\validators\\getticketbyidvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCCE484-C7B6-4853-8A4B-587EFFDFE26E}|..\\Services\\Services.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\services\\validators\\deleteticketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCCE484-C7B6-4853-8A4B-587EFFDFE26E}|..\\Services\\Services.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\services\\validators\\bookticketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCCE484-C7B6-4853-8A4B-587EFFDFE26E}|..\\Services\\Services.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\services\\validators\\updateticketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5D2779-A4D8-4B69-83AF-77CCDCCDC283}|WebAPIForExam.csproj|C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\WebAPIForExam\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5D2779-A4D8-4B69-83AF-77CCDCCDC283}|WebAPIForExam.csproj|solutionrelative:controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCCE484-C7B6-4853-8A4B-587EFFDFE26E}|..\\Services\\Services.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\services\\handlers\\deletetickethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAAFD22-DE84-4061-B26E-CE1ACF719F75}|..\\Contracts\\Contracts.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\contracts\\responsemodels\\deleteticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAAFD22-DE84-4061-B26E-CE1ACF719F75}|..\\Contracts\\Contracts.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\contracts\\requestmodels\\deleteticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCCE484-C7B6-4853-8A4B-587EFFDFE26E}|..\\Services\\Services.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\services\\handlers\\updatetickethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAAFD22-DE84-4061-B26E-CE1ACF719F75}|..\\Contracts\\Contracts.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\contracts\\responsemodels\\updateticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAAFD22-DE84-4061-B26E-CE1ACF719F75}|..\\Contracts\\Contracts.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\contracts\\requestmodels\\updateticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCCE484-C7B6-4853-8A4B-587EFFDFE26E}|..\\Services\\Services.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\services\\handlers\\getticketbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAAFD22-DE84-4061-B26E-CE1ACF719F75}|..\\Contracts\\Contracts.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\contracts\\requestmodels\\getticketbyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5D2779-A4D8-4B69-83AF-77CCDCCDC283}|WebAPIForExam.csproj|C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\WebAPIForExam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5D2779-A4D8-4B69-83AF-77CCDCCDC283}|WebAPIForExam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE628CE7-8CDD-4A9D-BEFD-3268D6D2F17D}|..\\Entity\\Entity.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\entity\\entity\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE628CE7-8CDD-4A9D-BEFD-3268D6D2F17D}|..\\Entity\\Entity.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\entity\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCCE484-C7B6-4853-8A4B-587EFFDFE26E}|..\\Services\\Services.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\services\\handlers\\gettickethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAAFD22-DE84-4061-B26E-CE1ACF719F75}|..\\Contracts\\Contracts.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\contracts\\requestmodels\\bookticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAAFD22-DE84-4061-B26E-CE1ACF719F75}|..\\Contracts\\Contracts.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\contracts\\responsemodels\\getticketbyidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAAFD22-DE84-4061-B26E-CE1ACF719F75}|..\\Contracts\\Contracts.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\contracts\\requestmodels\\getticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAAFD22-DE84-4061-B26E-CE1ACF719F75}|..\\Contracts\\Contracts.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\contracts\\responsemodels\\bookticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE628CE7-8CDD-4A9D-BEFD-3268D6D2F17D}|..\\Entity\\Entity.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\entity\\entity\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAAFD22-DE84-4061-B26E-CE1ACF719F75}|..\\Contracts\\Contracts.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\contracts\\responsemodels\\getticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCCE484-C7B6-4853-8A4B-587EFFDFE26E}|..\\Services\\Services.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\services\\handlers\\booktickethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE628CE7-8CDD-4A9D-BEFD-3268D6D2F17D}|..\\Entity\\Entity.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\entity\\entity\\bookedticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5D2779-A4D8-4B69-83AF-77CCDCCDC283}|WebAPIForExam.csproj|C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\WebAPIForExam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA5D2779-A4D8-4B69-83AF-77CCDCCDC283}|WebAPIForExam.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JEMY\\AppData\\Roaming\\Microsoft\\UserSecrets\\37aba8bf-e8a6-486e-b1bf-872390ac89a5\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAAFD22-DE84-4061-B26E-CE1ACF719F75}|..\\Contracts\\Contracts.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\contracts\\contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE628CE7-8CDD-4A9D-BEFD-3268D6D2F17D}|..\\Entity\\Entity.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\entity\\entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DCCE484-C7B6-4853-8A4B-587EFFDFE26E}|..\\Services\\Services.csproj|c:\\users\\jemy\\documents\\intern\\c#\\web api exam\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 231,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetTicketValidator.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Validators\\GetTicketValidator.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Validators\\GetTicketValidator.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Validators\\GetTicketValidator.cs",
+              "RelativeToolTip": "..\\Services\\Validators\\GetTicketValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:37:20.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteTicketValidator.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Validators\\DeleteTicketValidator.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Validators\\DeleteTicketValidator.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Validators\\DeleteTicketValidator.cs",
+              "RelativeToolTip": "..\\Services\\Validators\\DeleteTicketValidator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:34:42.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateTicketValidator.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Validators\\UpdateTicketValidator.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Validators\\UpdateTicketValidator.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Validators\\UpdateTicketValidator.cs",
+              "RelativeToolTip": "..\\Services\\Validators\\UpdateTicketValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:34:32.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteTicketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Handlers\\DeleteTicketHandler.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Handlers\\DeleteTicketHandler.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Handlers\\DeleteTicketHandler.cs",
+              "RelativeToolTip": "..\\Services\\Handlers\\DeleteTicketHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:19:29.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteTicketResponse.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\ResponseModels\\DeleteTicketResponse.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\ResponseModels\\DeleteTicketResponse.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\ResponseModels\\DeleteTicketResponse.cs",
+              "RelativeToolTip": "..\\Contracts\\ResponseModels\\DeleteTicketResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:14:24.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteTicketRequest.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\RequestModels\\DeleteTicketRequest.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\RequestModels\\DeleteTicketRequest.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\RequestModels\\DeleteTicketRequest.cs",
+              "RelativeToolTip": "..\\Contracts\\RequestModels\\DeleteTicketRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:14:06.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateTicketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Handlers\\UpdateTicketHandler.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Handlers\\UpdateTicketHandler.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Handlers\\UpdateTicketHandler.cs",
+              "RelativeToolTip": "..\\Services\\Handlers\\UpdateTicketHandler.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:47:23.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateTicketResponse.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\ResponseModels\\UpdateTicketResponse.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\ResponseModels\\UpdateTicketResponse.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\ResponseModels\\UpdateTicketResponse.cs",
+              "RelativeToolTip": "..\\Contracts\\ResponseModels\\UpdateTicketResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:38:53.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateTicketRequest.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\RequestModels\\UpdateTicketRequest.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\RequestModels\\UpdateTicketRequest.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\RequestModels\\UpdateTicketRequest.cs",
+              "RelativeToolTip": "..\\Contracts\\RequestModels\\UpdateTicketRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:38:34.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetTicketByIdValidator.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Validators\\GetTicketByIdValidator.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Validators\\GetTicketByIdValidator.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Validators\\GetTicketByIdValidator.cs",
+              "RelativeToolTip": "..\\Services\\Validators\\GetTicketByIdValidator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:33:52.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetTicketByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Handlers\\GetTicketByIdHandler.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Handlers\\GetTicketByIdHandler.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Handlers\\GetTicketByIdHandler.cs",
+              "RelativeToolTip": "..\\Services\\Handlers\\GetTicketByIdHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwBwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:16:59.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetTicketByIdResponse.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\ResponseModels\\GetTicketByIdResponse.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\ResponseModels\\GetTicketByIdResponse.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\ResponseModels\\GetTicketByIdResponse.cs",
+              "RelativeToolTip": "..\\Contracts\\ResponseModels\\GetTicketByIdResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:47:31.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetTicketByIdRequest.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\RequestModels\\GetTicketByIdRequest.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\RequestModels\\GetTicketByIdRequest.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\RequestModels\\GetTicketByIdRequest.cs",
+              "RelativeToolTip": "..\\Contracts\\RequestModels\\GetTicketByIdRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:46:51.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetTicketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Handlers\\GetTicketHandler.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Handlers\\GetTicketHandler.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Handlers\\GetTicketHandler.cs",
+              "RelativeToolTip": "..\\Services\\Handlers\\GetTicketHandler.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:18:16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookTicketValidator.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Validators\\BookTicketValidator.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Validators\\BookTicketValidator.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Validators\\BookTicketValidator.cs",
+              "RelativeToolTip": "..\\Services\\Validators\\BookTicketValidator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:50:02.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BookedTicket.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Entity\\Entity\\BookedTicket.cs",
+              "RelativeDocumentMoniker": "..\\Entity\\Entity\\BookedTicket.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Entity\\Entity\\BookedTicket.cs",
+              "RelativeToolTip": "..\\Entity\\Entity\\BookedTicket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:43:55.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetTicketRequest.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\RequestModels\\GetTicketRequest.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\RequestModels\\GetTicketRequest.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\RequestModels\\GetTicketRequest.cs",
+              "RelativeToolTip": "..\\Contracts\\RequestModels\\GetTicketRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:33:43.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetTicketResponse.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\ResponseModels\\GetTicketResponse.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\ResponseModels\\GetTicketResponse.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\ResponseModels\\GetTicketResponse.cs",
+              "RelativeToolTip": "..\\Contracts\\ResponseModels\\GetTicketResponse.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:33:20.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookTicketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Handlers\\BookTicketHandler.cs",
+              "RelativeDocumentMoniker": "..\\Services\\Handlers\\BookTicketHandler.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Handlers\\BookTicketHandler.cs",
+              "RelativeToolTip": "..\\Services\\Handlers\\BookTicketHandler.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwDsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:03:33.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookTicketResponse.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\ResponseModels\\BookTicketResponse.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\ResponseModels\\BookTicketResponse.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\ResponseModels\\BookTicketResponse.cs",
+              "RelativeToolTip": "..\\Contracts\\ResponseModels\\BookTicketResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:27:20.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookTicketRequest.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\RequestModels\\BookTicketRequest.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\RequestModels\\BookTicketRequest.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\RequestModels\\BookTicketRequest.cs",
+              "RelativeToolTip": "..\\Contracts\\RequestModels\\BookTicketRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:26:54.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\WebAPIForExam\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\WebAPIForExam\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T03:17:14.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\JEMY\\AppData\\Roaming\\Microsoft\\UserSecrets\\37aba8bf-e8a6-486e-b1bf-872390ac89a5\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\37aba8bf-e8a6-486e-b1bf-872390ac89a5\\secrets.json",
+              "ToolTip": "C:\\Users\\JEMY\\AppData\\Roaming\\Microsoft\\UserSecrets\\37aba8bf-e8a6-486e-b1bf-872390ac89a5\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\37aba8bf-e8a6-486e-b1bf-872390ac89a5\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T03:15:57.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\WebAPIForExam\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\WebAPIForExam\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "Controllers\\TicketController.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAA/wG4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:26:14.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Entity\\Entity\\Ticket.cs",
+              "RelativeDocumentMoniker": "..\\Entity\\Entity\\Ticket.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Entity\\Entity\\Ticket.cs",
+              "RelativeToolTip": "..\\Entity\\Entity\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:14:45.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Entity\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "..\\Entity\\Entity\\Category.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Entity\\Entity\\Category.cs",
+              "RelativeToolTip": "..\\Entity\\Entity\\Category.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:14:31.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Entity\\Entity\\DBContext.cs",
+              "RelativeDocumentMoniker": "..\\Entity\\Entity\\DBContext.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Entity\\Entity\\DBContext.cs",
+              "RelativeToolTip": "..\\Entity\\Entity\\DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:05:35.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\WebAPIForExam\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\WebAPIForExam\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:54:52.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Services",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "..\\Services\\Services.csproj",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Services\\Services.csproj",
+              "RelativeToolTip": "..\\Services\\Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T01:42:12.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Entity",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Entity\\Entity.csproj",
+              "RelativeDocumentMoniker": "..\\Entity\\Entity.csproj",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Entity\\Entity.csproj",
+              "RelativeToolTip": "..\\Entity\\Entity.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T01:40:47.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Contracts",
+              "DocumentMoniker": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\Contracts.csproj",
+              "RelativeDocumentMoniker": "..\\Contracts\\Contracts.csproj",
+              "ToolTip": "C:\\Users\\JEMY\\Documents\\Intern\\C#\\Web API Exam\\Contracts\\Contracts.csproj",
+              "RelativeToolTip": "..\\Contracts\\Contracts.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T01:40:09.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
