@@ -1,0 +1,13 @@
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Contracts\bin\Debug\net8.0\Contracts.deps.json
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Contracts\bin\Debug\net8.0\Contracts.dll
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Contracts\bin\Debug\net8.0\Contracts.pdb
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Contracts\obj\Debug\net8.0\Contracts.sourcelink.json
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Contracts\obj\Debug\net8.0\Contracts.dll
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Contracts\obj\Debug\net8.0\Contracts.pdb
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Contracts\obj\Debug\net8.0\ref\Contracts.dll

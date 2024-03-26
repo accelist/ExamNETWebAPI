@@ -1,0 +1,13 @@
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Entity\bin\Debug\net8.0\Entity.dll
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Entity\obj\Debug\net8.0\Entity.csproj.AssemblyReference.cache
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Entity\obj\Debug\net8.0\Entity.sourcelink.json
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Entity\obj\Debug\net8.0\Entity.dll
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Samuel Hans\Working Space\Repo\WebAPIExam\ExamNETWebAPI\WebAPIExam\Entity\obj\Debug\net8.0\ref\Entity.dll
