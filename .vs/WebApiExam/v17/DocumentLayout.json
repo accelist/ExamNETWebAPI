@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alvar\\source\\repos\\WebApiExam\\accelist\\ExamNETWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{369F8963-040A-4BC2-B4BC-BC3DCAC10238}|..\\Contracts\\Contracts.csproj|c:\\users\\alvar\\source\\repos\\webapiexam\\accelist\\contracts\\requestmodels\\ticketrequest\\getticketdatarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534E0823-3299-4188-BE1C-02006E462DFB}|WebApiExam.csproj|C:\\Users\\alvar\\source\\repos\\WebApiExam\\accelist\\ExamNETWebAPI\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534E0823-3299-4188-BE1C-02006E462DFB}|WebApiExam.csproj|solutionrelative:controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FDD9EB-137F-439C-86C8-F307E6776A5A}|..\\Services\\Services.csproj|c:\\users\\alvar\\source\\repos\\webapiexam\\accelist\\services\\responsehandlers\\ticket\\getticktetdatahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369F8963-040A-4BC2-B4BC-BC3DCAC10238}|..\\Contracts\\Contracts.csproj|c:\\users\\alvar\\source\\repos\\webapiexam\\accelist\\contracts\\responsemodels\\ticketresponse\\getticketdataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\WebApiExam\\accelist\\ExamNETWebAPI\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\WebApiExam\\accelist\\ExamNETWebAPI\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "Controllers\\TicketController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwB0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:29:50.372Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetTicktetDataHandler.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\WebApiExam\\accelist\\Services\\ResponseHandlers\\Ticket\\GetTicktetDataHandler.cs",
+              "RelativeDocumentMoniker": "..\\Services\\ResponseHandlers\\Ticket\\GetTicktetDataHandler.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\WebApiExam\\accelist\\Services\\ResponseHandlers\\Ticket\\GetTicktetDataHandler.cs",
+              "RelativeToolTip": "..\\Services\\ResponseHandlers\\Ticket\\GetTicktetDataHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:13:15.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetTicketDataResponse.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\WebApiExam\\accelist\\Contracts\\ResponseModels\\TicketResponse\\GetTicketDataResponse.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\ResponseModels\\TicketResponse\\GetTicketDataResponse.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\WebApiExam\\accelist\\Contracts\\ResponseModels\\TicketResponse\\GetTicketDataResponse.cs",
+              "RelativeToolTip": "..\\Contracts\\ResponseModels\\TicketResponse\\GetTicketDataResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:13:10.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetTicketDataRequest.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\WebApiExam\\accelist\\Contracts\\RequestModels\\TicketRequest\\GetTicketDataRequest.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\RequestModels\\TicketRequest\\GetTicketDataRequest.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\WebApiExam\\accelist\\Contracts\\RequestModels\\TicketRequest\\GetTicketDataRequest.cs",
+              "RelativeToolTip": "..\\Contracts\\RequestModels\\TicketRequest\\GetTicketDataRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:13:04.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
