@@ -1,0 +1,6 @@
+@AccelTick_HostAddress = http://localhost:5094
+
+GET {{AccelTick_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
