@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rDaVSy+Kt1QtU9FA7uXEJpqTxVbRR7at3umzShYvJioR5bFrBSzTP9VDn5pxNs+K5R0rAk1mmg+afC2lerFeHw==",
+  "success": true,
+  "projectFilePath": "C:\\Samuel Hans\\Working Space\\Repo\\WebAPIExam\\ExamNETWebAPI\\WebAPIExam\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanss\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
